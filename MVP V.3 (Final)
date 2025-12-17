@@ -1,0 +1,270 @@
+# MVP Breakdown — Nalar  
+*Aplikasi Pendamping Berpikir & Menulis Penelitian untuk Mahasiswa*
+
+*Versi 3.0 — One Clear Flow: Berpikir → Jurnal → Menulis → Export*
+
+---
+
+## 🎯 Tujuan MVP
+
+Membantu mahasiswa S1/S2 berubah dari:
+
+> “Aku benar-benar belum tahu mau meneliti apa dan harus mulai dari mana”
+
+menjadi:
+
+> “Aku punya judul penelitian yang masuk akal, paham jurnal-jurnalnya, dan sudah punya draft awal yang bisa dikembangkan”
+
+tanpa Nalar menuliskan skripsi atau tesis untuk mereka.
+
+Nalar membantu **berpikir, memahami, dan menulis dengan lebih yakin** —  
+bukan menggantikan peran mahasiswa.
+
+---
+
+## 😵 Masalah Nyata Mahasiswa
+
+Mahasiswa sering:
+- tidak tahu cara menentukan topik penelitian  
+- bingung apakah topik mereka realistis  
+- membaca jurnal tapi tidak paham kaitannya dengan topik  
+- takut mulai menulis karena ragu “ini sudah benar atau belum”  
+- berpindah-pindah antara Word/Docs, PDF, dan AI  
+
+**Masalah intinya:**  
+Mahasiswa kesulitan menghubungkan **ide → jurnal → tulisan** secara utuh.
+
+---
+
+## 🧭 Konsep Inti MVP Nalar
+
+MVP Nalar adalah **satu alur terpadu**, bukan sekadar kumpulan fitur.
+
+Alurnya:
+
+1. **Ruang Berpikir** → menentukan arah & judul kerja  
+2. **Ruang Jurnal** → memahami jurnal & mengecek kesesuaiannya  
+3. **Ruang Tulis** → menulis dengan aman & terarah  
+4. **Export Draft** → membawa hasil kerja ke luar Nalar  
+
+Setiap tahap menghasilkan **artefak nyata** yang dipakai tahap berikutnya.
+
+---
+
+## 🚀 Fitur Inti MVP Nalar
+
+---
+
+## 1️⃣ Ruang Berpikir  
+*(Brainstorming Topik Penelitian)*
+
+**Tujuan:**  
+Membantu mahasiswa yang benar-benar belum punya topik agar mendapatkan **arah penelitian yang jelas dan masuk akal**.
+
+Nalar berperan sebagai **partner diskusi**, bukan penentu keputusan.
+
+---
+
+### Cara Kerja
+Mahasiswa dan Nalar berdiskusi (chat-based) tentang:
+- minat dan jurusan  
+- konteks penelitian  
+- keterbatasan waktu dan data  
+- hal yang ingin dipahami atau dipertanyakan  
+
+Diskusi ini membantu mahasiswa **merapikan ide**, bukan menerima jawaban instan.
+
+---
+
+### Output: **Judul Kerja & Deskripsi Penelitian**
+
+Hasil Ruang Berpikir adalah:
+- **Judul kerja (judul sementara)**  
+- Deskripsi singkat penelitian (hasil diskusi, bahasa sederhana)  
+- Fokus dan ruang lingkup penelitian  
+- Hal-hal yang masih perlu divalidasi  
+- Pertanyaan yang biasanya ditanyakan dosen  
+
+> Judul ini **bisa berubah**, dan memang boleh berubah.
+
+**Hasil untuk mahasiswa:**  
+> “Aku punya arah yang jelas untuk mulai.”
+
+Deskripsi ini akan dipakai sebagai **acuan utama** di Ruang Jurnal dan Ruang Tulis.
+
+---
+
+## 2️⃣ Ruang Jurnal  
+*(Pahami Jurnal & Cek Kesesuaian dengan Topik)*
+
+**Tujuan:**  
+Membantu mahasiswa **memahami jurnal dengan benar** dan mengetahui **seberapa relevan jurnal tersebut dengan topik penelitiannya**.
+
+---
+
+### 2.1 Upload & Pahami Jurnal
+
+Mahasiswa mengunggah satu jurnal.
+
+Nalar membantu menjelaskan:
+- jurnal ini membahas apa  
+- tujuan penelitian jurnal  
+- metode yang digunakan dan alasannya  
+- variabel atau konsep utama  
+- arti hasil penelitian  
+- bagian yang sering disalahpahami mahasiswa  
+
+Penjelasan selalu disertai **kutipan dan nomor halaman**.
+
+---
+
+### 2.2 Cek Kesesuaian Jurnal dengan Topik
+
+Setiap jurnal juga dicek keterkaitannya dengan:
+- judul kerja  
+- deskripsi penelitian dari Ruang Berpikir  
+
+Nalar membantu menjawab:
+- jurnal ini relevan kuat / sebagian / tidak langsung  
+- bagian mana yang paling bisa dipakai  
+- jurnal ini lebih cocok sebagai:
+  - landasan teori  
+  - referensi metode  
+  - pembanding hasil  
+
+Tidak ada penilaian mutlak “boleh/tidak boleh”.
+
+---
+
+### Output: **Kartu Jurnal**
+
+Setiap jurnal menghasilkan **Kartu Jurnal** berisi:
+- ringkasan pemahaman jurnal  
+- tingkat & bentuk relevansi ke topik  
+- peran jurnal dalam penelitian  
+- kutipan penting + halaman  
+
+Kartu ini bisa dipakai langsung di Ruang Tulis.
+
+---
+
+## 3️⃣ Ruang Tulis  
+*(Menulis dengan Aman & Terarah)*
+
+**Tujuan:**  
+Membantu mahasiswa mulai dan melanjutkan menulis **tanpa takut salah arah**.
+
+Ruang Tulis Nalar **bukan AI penulis**, tapi ruang nulis yang terhubung ke pemahaman.
+
+---
+
+### 3.1 Outline Penelitian
+
+Ruang Tulis menyediakan outline sederhana, seperti:
+- Latar Belakang  
+- Rumusan Masalah  
+- Tujuan Penelitian  
+- Tinjauan Pustaka  
+- Metode (awal)  
+
+Mahasiswa menulis **dengan kata-kata mereka sendiri**.
+
+---
+
+### 3.2 Terhubung dengan Artefak Nalar
+
+Di samping editor, mahasiswa bisa membuka:
+- Judul Kerja & Deskripsi Penelitian  
+- Kartu Jurnal  
+
+Mahasiswa bisa:
+- memasukkan poin penting  
+- memasukkan kutipan + halaman  
+- memindahkan ide ke bagian yang relevan  
+
+Nalar **tidak menulis paragraf**, hanya membantu memindahkan *pemahaman* ke *bahan tulisan*.
+
+---
+
+### 3.3 Cek Kesesuaian dengan Topik
+
+Mahasiswa dapat memilih kalimat atau paragraf lalu klik:
+**“Cek Kesesuaian dengan Topik”**
+
+Nalar membantu:
+- menilai apakah bagian tersebut nyambung dengan topik  
+- menjelaskan alasannya  
+- menunjukkan bagian yang perlu diperjelas  
+- mengajukan pertanyaan reflektif  
+
+Nalar **tidak menulis ulang** atau memoles bahasa.
+
+**Hasil untuk mahasiswa:**  
+> “Aku lebih yakin dengan apa yang aku tulis.”
+
+---
+
+## 4️⃣ Export Draft
+
+**Tujuan:**  
+Memberi mahasiswa hasil nyata yang bisa mereka lanjutkan di luar Nalar.
+
+Mahasiswa dapat mengekspor:
+- draft awal  
+- outline + isi sementara  
+
+Dalam format:
+- **.docx**
+
+Export ini adalah **bahan pengembangan**, bukan dokumen final siap dikumpulkan.
+
+---
+
+## 🚪 Pengalaman Awal Pengguna
+
+Saat pertama membuka Nalar, mahasiswa ditanya:
+
+> **“Kamu sudah punya topik penelitian?”**
+
+- **Belum** → masuk Ruang Berpikir  
+- **Sudah** → langsung ke Ruang Jurnal  
+
+Tanpa dashboard rumit.  
+Langsung ke masalah utama.
+
+---
+
+## ❌ Batasan yang Jelas (Penting)
+
+Nalar **tidak**:
+- menulis skripsi atau tesis otomatis  
+- membuat sitasi palsu  
+- menentukan keputusan akademik  
+
+Mahasiswa tetap:
+- berpikir sendiri  
+- menulis sendiri  
+- bertanggung jawab atas isinya  
+
+---
+
+## 📈 Ukuran Keberhasilan MVP
+
+MVP dianggap berhasil jika:
+- mahasiswa bisa menyelesaikan alur utama dalam ≤ 60 menit  
+- mahasiswa menghasilkan judul kerja + draft awal  
+- mahasiswa merasa lebih yakin dengan penelitiannya  
+- mahasiswa kembali untuk lanjut menulis  
+
+---
+
+## 🏁 Ringkasan
+
+Nalar membantu mahasiswa:
+- dari nol ide → arah penelitian  
+- dari jurnal → pemahaman  
+- dari ragu → berani menulis  
+- dari bingung → punya draft  
+
+Nalar bukan AI penulis skripsi.  
+Nalar adalah **partner berpikir dan menulis yang masuk akal**.
